@@ -1,2 +1,2 @@
 print("Hello")
-hahahahahahah
+pochemu u tebya ne chego ne poluchaetsa
